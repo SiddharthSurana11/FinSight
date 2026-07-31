@@ -121,7 +121,7 @@ $$d_1 = \frac{\ln(S_0/K) + \left(r + \frac{1}{2}\sigma^2\right)T}{\sigma\sqrt{T}
 ### Setup Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shib1111111/FinSight.git
+   git clone https://github.com/SiddharthSurana11/FinSight.git
    cd FinSight
    ```
 
