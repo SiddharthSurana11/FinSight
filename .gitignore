@@ -1,0 +1,76 @@
+# ==========================================
+# FinSight - Production Git Ignore Configuration
+# ==========================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit Local Caches & Secrets (Preserving .streamlit/config.toml)
+.streamlit/secrets.toml
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Caches & Testing Artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.noserc
+nosetests.xml
+coverage.xml
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Build, Packaging & Distribution Artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Logs & Temporary Files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Database / SQLite Caches
+*.sqlite3
+*.db
