@@ -1,4 +1,4 @@
-# FinSight — Institutional Financial Risk & Return Analytics Platform
+=# FinSight — Institutional Financial Risk & Return Analytics Platform
 
 <p align="center">
   <img src="assets/logo/finsight_logo.png" alt="FinSight Logo" width="180"/>
@@ -46,6 +46,49 @@ Traditional financial analytics tools and isolated Jupyter notebooks frequently 
 - 🎲 **Stochastic Monte Carlo Forecasting**: Geometric Brownian Motion (GBM) simulating up to 5,000 future price paths with expected price targets, 95% confidence intervals, and 1%–99% extreme risk bounds.
 - 🔮 **Black-Scholes Option Pricing**: Analytical pricing of European Call and Put options alongside Call Delta ($\Delta_C$) and Put Delta ($\Delta_P$) risk sensitivities.
 - 💡 **Programmatic Business Insights**: Automated narrative summaries rendering key takeaways on portfolio risk-return metrics and asset diversification.
+
+---
+
+
+## 📸 Dashboard Screenshots
+
+FinSight provides an interactive institutional-style dashboard covering portfolio analytics, quantitative risk modeling, stochastic forecasting, and derivative pricing.
+
+### 1. Dashboard Overview
+
+![FinSight Dashboard Overview](screenshots/01_dashboard_overview.png)
+
+### 2. Market Data Preview
+
+![Market Data Preview](screenshots/02_data_preview.png)
+
+### 3. Price & Normalized Price Analysis
+
+![Price Analysis](screenshots/03_price_analysis.png)
+
+### 4. Asset Return Correlation Matrix
+
+![Asset Return Correlation Matrix](screenshots/04_correlation_matrix.png)
+
+### 5. CAPM Regression & Portfolio Risk Metrics
+
+![CAPM Metrics](screenshots/05_capm_metrics.png)
+
+### 6. Risk vs Return Profile
+
+![Risk vs Return](screenshots/06_risk_return.png)
+
+### 7. Cumulative Investment Growth
+
+![Cumulative Investment Growth](screenshots/07_cumulative_growth.png)
+
+### 8. Monte Carlo GBM Forecast
+
+![Monte Carlo Forecast](screenshots/08_monte_carlo.png)
+
+### 9. Black-Scholes Option Pricing
+
+![Black-Scholes Option Pricing](screenshots/09_black_scholes.png)
 
 ---
 
